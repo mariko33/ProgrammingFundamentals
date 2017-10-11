@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exercises-IntroBasicSyntax\DebitCardNumber\bin\Debug\DebitCardNumber.exe.config
+D:\ProgrammingFundamentals\Exercises-IntroBasicSyntax\DebitCardNumber\bin\Debug\DebitCardNumber.exe
+D:\ProgrammingFundamentals\Exercises-IntroBasicSyntax\DebitCardNumber\bin\Debug\DebitCardNumber.pdb
+D:\ProgrammingFundamentals\Exercises-IntroBasicSyntax\DebitCardNumber\obj\Debug\DebitCardNumber.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Exercises-IntroBasicSyntax\DebitCardNumber\obj\Debug\DebitCardNumber.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-IntroBasicSyntax\DebitCardNumber\obj\Debug\DebitCardNumber.exe
+D:\ProgrammingFundamentals\Exercises-IntroBasicSyntax\DebitCardNumber\obj\Debug\DebitCardNumber.pdb

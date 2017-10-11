@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\15_Substring\bin\Debug\15_Substring.exe.config
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\15_Substring\bin\Debug\15_Substring.exe
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\15_Substring\bin\Debug\15_Substring.pdb
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\15_Substring\obj\Debug\15_Substring.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\15_Substring\obj\Debug\15_Substring.exe
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\15_Substring\obj\Debug\15_Substring.pdb
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\15_Substring\obj\Debug\15_Substring.csprojResolveAssemblyReference.cache

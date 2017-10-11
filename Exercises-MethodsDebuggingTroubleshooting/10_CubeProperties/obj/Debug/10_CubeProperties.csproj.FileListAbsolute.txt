@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\10_CubeProperties\bin\Debug\10_CubeProperties.exe.config
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\10_CubeProperties\bin\Debug\10_CubeProperties.exe
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\10_CubeProperties\bin\Debug\10_CubeProperties.pdb
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\10_CubeProperties\obj\Debug\10_CubeProperties.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\10_CubeProperties\obj\Debug\10_CubeProperties.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\10_CubeProperties\obj\Debug\10_CubeProperties.exe
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\10_CubeProperties\obj\Debug\10_CubeProperties.pdb

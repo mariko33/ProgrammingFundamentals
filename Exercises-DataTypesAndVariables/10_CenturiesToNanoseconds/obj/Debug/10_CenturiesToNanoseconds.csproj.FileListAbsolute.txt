@@ -1,0 +1,6 @@
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\10_CenturiesToNanoseconds\bin\Debug\10_CenturiesToNanoseconds.exe.config
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\10_CenturiesToNanoseconds\bin\Debug\10_CenturiesToNanoseconds.exe
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\10_CenturiesToNanoseconds\bin\Debug\10_CenturiesToNanoseconds.pdb
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\10_CenturiesToNanoseconds\obj\Debug\10_CenturiesToNanoseconds.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\10_CenturiesToNanoseconds\obj\Debug\10_CenturiesToNanoseconds.exe
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\10_CenturiesToNanoseconds\obj\Debug\10_CenturiesToNanoseconds.pdb

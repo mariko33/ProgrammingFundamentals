@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.exe.config
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.exe
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.pdb
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\04. Numbers in Reversed Order\obj\Debug\04_NumbersInReversedOrder.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\04. Numbers in Reversed Order\obj\Debug\04_NumbersInReversedOrder.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\04. Numbers in Reversed Order\obj\Debug\_04.Numbers_in_Reversed_Order.exe
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\04. Numbers in Reversed Order\obj\Debug\_04.Numbers_in_Reversed_Order.pdb

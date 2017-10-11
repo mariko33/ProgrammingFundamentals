@@ -1,0 +1,6 @@
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\16_InstructionSet\bin\Debug\16_InstructionSet.exe.config
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\16_InstructionSet\bin\Debug\16_InstructionSet.exe
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\16_InstructionSet\bin\Debug\16_InstructionSet.pdb
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\16_InstructionSet\obj\Debug\16_InstructionSet.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\16_InstructionSet\obj\Debug\16_InstructionSet.exe
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\16_InstructionSet\obj\Debug\16_InstructionSet.pdb

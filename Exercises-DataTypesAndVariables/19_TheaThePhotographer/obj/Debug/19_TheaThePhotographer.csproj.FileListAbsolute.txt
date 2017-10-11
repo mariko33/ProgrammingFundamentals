@@ -1,0 +1,6 @@
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\19_TheaThePhotographer\bin\Debug\19_TheaThePhotographer.exe.config
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\19_TheaThePhotographer\bin\Debug\19_TheaThePhotographer.exe
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\19_TheaThePhotographer\bin\Debug\19_TheaThePhotographer.pdb
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\19_TheaThePhotographer\obj\Debug\19_TheaThePhotographer.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\19_TheaThePhotographer\obj\Debug\19_TheaThePhotographer.exe
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\19_TheaThePhotographer\obj\Debug\19_TheaThePhotographer.pdb

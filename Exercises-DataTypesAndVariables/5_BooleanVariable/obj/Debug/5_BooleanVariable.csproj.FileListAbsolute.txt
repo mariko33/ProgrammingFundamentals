@@ -1,0 +1,6 @@
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\5_BooleanVariable\bin\Debug\5_BooleanVariable.exe.config
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\5_BooleanVariable\bin\Debug\5_BooleanVariable.exe
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\5_BooleanVariable\bin\Debug\5_BooleanVariable.pdb
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\5_BooleanVariable\obj\Debug\5_BooleanVariable.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\5_BooleanVariable\obj\Debug\5_BooleanVariable.exe
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\5_BooleanVariable\obj\Debug\5_BooleanVariable.pdb

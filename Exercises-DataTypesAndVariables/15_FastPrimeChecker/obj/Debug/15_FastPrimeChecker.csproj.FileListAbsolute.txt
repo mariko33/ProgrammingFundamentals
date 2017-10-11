@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\15_FastPrimeChecker\bin\Debug\15_FastPrimeChecker.exe.config
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\15_FastPrimeChecker\bin\Debug\15_FastPrimeChecker.exe
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\15_FastPrimeChecker\bin\Debug\15_FastPrimeChecker.pdb
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\15_FastPrimeChecker\obj\Debug\15_FastPrimeChecker.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\15_FastPrimeChecker\obj\Debug\15_FastPrimeChecker.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\15_FastPrimeChecker\obj\Debug\15_FastPrimeChecker.exe
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\15_FastPrimeChecker\obj\Debug\15_FastPrimeChecker.pdb

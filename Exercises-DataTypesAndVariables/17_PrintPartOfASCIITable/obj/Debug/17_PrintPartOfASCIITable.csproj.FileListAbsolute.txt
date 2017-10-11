@@ -1,0 +1,6 @@
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\17_PrintPartOfASCIITable\bin\Debug\17_PrintPartOfASCIITable.exe.config
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\17_PrintPartOfASCIITable\bin\Debug\17_PrintPartOfASCIITable.exe
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\17_PrintPartOfASCIITable\bin\Debug\17_PrintPartOfASCIITable.pdb
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\17_PrintPartOfASCIITable\obj\Debug\17_PrintPartOfASCIITable.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\17_PrintPartOfASCIITable\obj\Debug\17_PrintPartOfASCIITable.exe
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\17_PrintPartOfASCIITable\obj\Debug\17_PrintPartOfASCIITable.pdb

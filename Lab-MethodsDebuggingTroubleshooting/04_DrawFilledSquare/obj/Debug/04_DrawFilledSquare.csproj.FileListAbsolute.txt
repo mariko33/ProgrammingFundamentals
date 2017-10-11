@@ -1,0 +1,6 @@
+D:\ProgrammingFundamentals\Lab-MethodsDebuggingTroubleshooting\04_DrawFilledSquare\bin\Debug\04_DrawFilledSquare.exe.config
+D:\ProgrammingFundamentals\Lab-MethodsDebuggingTroubleshooting\04_DrawFilledSquare\bin\Debug\04_DrawFilledSquare.exe
+D:\ProgrammingFundamentals\Lab-MethodsDebuggingTroubleshooting\04_DrawFilledSquare\bin\Debug\04_DrawFilledSquare.pdb
+D:\ProgrammingFundamentals\Lab-MethodsDebuggingTroubleshooting\04_DrawFilledSquare\obj\Debug\04_DrawFilledSquare.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Lab-MethodsDebuggingTroubleshooting\04_DrawFilledSquare\obj\Debug\04_DrawFilledSquare.exe
+D:\ProgrammingFundamentals\Lab-MethodsDebuggingTroubleshooting\04_DrawFilledSquare\obj\Debug\04_DrawFilledSquare.pdb

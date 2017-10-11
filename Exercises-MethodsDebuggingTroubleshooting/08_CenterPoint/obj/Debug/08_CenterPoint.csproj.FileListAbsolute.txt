@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\08_CenterPoint\bin\Debug\08_CenterPoint.exe.config
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\08_CenterPoint\bin\Debug\08_CenterPoint.exe
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\08_CenterPoint\bin\Debug\08_CenterPoint.pdb
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\08_CenterPoint\obj\Debug\08_CenterPoint.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\08_CenterPoint\obj\Debug\08_CenterPoint.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\08_CenterPoint\obj\Debug\08_CenterPoint.exe
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\08_CenterPoint\obj\Debug\08_CenterPoint.pdb

@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\06_PrimeChecker\bin\Debug\06_PrimeChecker.exe.config
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\06_PrimeChecker\bin\Debug\06_PrimeChecker.exe
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\06_PrimeChecker\bin\Debug\06_PrimeChecker.pdb
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\06_PrimeChecker\obj\Debug\06_PrimeChecker.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\06_PrimeChecker\obj\Debug\06_PrimeChecker.exe
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\06_PrimeChecker\obj\Debug\06_PrimeChecker.pdb
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\06_PrimeChecker\obj\Debug\06_PrimeChecker.csprojResolveAssemblyReference.cache

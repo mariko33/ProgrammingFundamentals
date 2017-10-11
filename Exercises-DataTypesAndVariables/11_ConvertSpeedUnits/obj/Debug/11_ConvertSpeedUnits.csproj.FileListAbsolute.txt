@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\11_ConvertSpeedUnits\bin\Debug\11_ConvertSpeedUnits.exe.config
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\11_ConvertSpeedUnits\bin\Debug\11_ConvertSpeedUnits.exe
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\11_ConvertSpeedUnits\bin\Debug\11_ConvertSpeedUnits.pdb
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\11_ConvertSpeedUnits\obj\Debug\11_ConvertSpeedUnits.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\11_ConvertSpeedUnits\obj\Debug\11_ConvertSpeedUnits.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\11_ConvertSpeedUnits\obj\Debug\11_ConvertSpeedUnits.exe
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\11_ConvertSpeedUnits\obj\Debug\11_ConvertSpeedUnits.pdb

@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\09_LongerLine\bin\Debug\09_LongerLine.exe.config
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\09_LongerLine\bin\Debug\09_LongerLine.exe
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\09_LongerLine\bin\Debug\09_LongerLine.pdb
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\09_LongerLine\obj\Debug\09_LongerLine.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\09_LongerLine\obj\Debug\09_LongerLine.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\09_LongerLine\obj\Debug\09_LongerLine.exe
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\09_LongerLine\obj\Debug\09_LongerLine.pdb

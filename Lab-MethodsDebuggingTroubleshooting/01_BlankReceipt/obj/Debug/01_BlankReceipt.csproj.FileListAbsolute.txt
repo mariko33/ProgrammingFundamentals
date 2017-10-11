@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Lab-MethodsDebuggingTroubleshooting\01_BlankReceipt\bin\Debug\01_BlankReceipt.exe.config
+D:\ProgrammingFundamentals\Lab-MethodsDebuggingTroubleshooting\01_BlankReceipt\bin\Debug\01_BlankReceipt.exe
+D:\ProgrammingFundamentals\Lab-MethodsDebuggingTroubleshooting\01_BlankReceipt\bin\Debug\01_BlankReceipt.pdb
+D:\ProgrammingFundamentals\Lab-MethodsDebuggingTroubleshooting\01_BlankReceipt\obj\Debug\01_BlankReceipt.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Lab-MethodsDebuggingTroubleshooting\01_BlankReceipt\obj\Debug\01_BlankReceipt.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Lab-MethodsDebuggingTroubleshooting\01_BlankReceipt\obj\Debug\01_BlankReceipt.exe
+D:\ProgrammingFundamentals\Lab-MethodsDebuggingTroubleshooting\01_BlankReceipt\obj\Debug\01_BlankReceipt.pdb

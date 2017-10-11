@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\13_Factorial\bin\Debug\13_Factorial.exe.config
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\13_Factorial\bin\Debug\13_Factorial.exe
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\13_Factorial\bin\Debug\13_Factorial.pdb
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\13_Factorial\obj\Debug\13_Factorial.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\13_Factorial\obj\Debug\13_Factorial.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\13_Factorial\obj\Debug\13_Factorial.exe
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\13_Factorial\obj\Debug\13_Factorial.pdb

@@ -1,0 +1,6 @@
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\12_RectangleProperties\bin\Debug\12_RectangleProperties.exe.config
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\12_RectangleProperties\bin\Debug\12_RectangleProperties.exe
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\12_RectangleProperties\bin\Debug\12_RectangleProperties.pdb
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\12_RectangleProperties\obj\Debug\12_RectangleProperties.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\12_RectangleProperties\obj\Debug\12_RectangleProperties.exe
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\12_RectangleProperties\obj\Debug\12_RectangleProperties.pdb

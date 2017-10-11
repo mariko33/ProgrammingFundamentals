@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exercises-Arrays\10_PairsByDifference\bin\Debug\10_PairsByDifference.exe.config
+D:\ProgrammingFundamentals\Exercises-Arrays\10_PairsByDifference\bin\Debug\10_PairsByDifference.exe
+D:\ProgrammingFundamentals\Exercises-Arrays\10_PairsByDifference\bin\Debug\10_PairsByDifference.pdb
+D:\ProgrammingFundamentals\Exercises-Arrays\10_PairsByDifference\obj\Debug\10_PairsByDifference.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Exercises-Arrays\10_PairsByDifference\obj\Debug\10_PairsByDifference.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-Arrays\10_PairsByDifference\obj\Debug\10_PairsByDifference.exe
+D:\ProgrammingFundamentals\Exercises-Arrays\10_PairsByDifference\obj\Debug\10_PairsByDifference.pdb

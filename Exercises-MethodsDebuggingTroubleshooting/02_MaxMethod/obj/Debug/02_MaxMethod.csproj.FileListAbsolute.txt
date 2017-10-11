@@ -1,0 +1,6 @@
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\02_MaxMethod\bin\Debug\02_MaxMethod.exe.config
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\02_MaxMethod\bin\Debug\02_MaxMethod.exe
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\02_MaxMethod\bin\Debug\02_MaxMethod.pdb
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\02_MaxMethod\obj\Debug\02_MaxMethod.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\02_MaxMethod\obj\Debug\02_MaxMethod.exe
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\02_MaxMethod\obj\Debug\02_MaxMethod.pdb

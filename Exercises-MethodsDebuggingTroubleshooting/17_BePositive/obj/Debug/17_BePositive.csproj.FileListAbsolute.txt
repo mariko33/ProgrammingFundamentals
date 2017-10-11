@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\17_BePositive\bin\Debug\17_BePositive.exe.config
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\17_BePositive\bin\Debug\17_BePositive.exe
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\17_BePositive\bin\Debug\17_BePositive.pdb
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\17_BePositive\obj\Debug\17_BePositive.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\17_BePositive\obj\Debug\17_BePositive.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\17_BePositive\obj\Debug\17_BePositive.exe
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\17_BePositive\obj\Debug\17_BePositive.pdb

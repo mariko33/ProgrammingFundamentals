@@ -1,0 +1,6 @@
+D:\ProgrammingFundamentals\Exercises-Arrays\04_SieveOfEratosthenes\bin\Debug\04_SieveOfEratosthenes.exe.config
+D:\ProgrammingFundamentals\Exercises-Arrays\04_SieveOfEratosthenes\bin\Debug\04_SieveOfEratosthenes.exe
+D:\ProgrammingFundamentals\Exercises-Arrays\04_SieveOfEratosthenes\bin\Debug\04_SieveOfEratosthenes.pdb
+D:\ProgrammingFundamentals\Exercises-Arrays\04_SieveOfEratosthenes\obj\Debug\04_SieveOfEratosthenes.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-Arrays\04_SieveOfEratosthenes\obj\Debug\04_SieveOfEratosthenes.exe
+D:\ProgrammingFundamentals\Exercises-Arrays\04_SieveOfEratosthenes\obj\Debug\04_SieveOfEratosthenes.pdb

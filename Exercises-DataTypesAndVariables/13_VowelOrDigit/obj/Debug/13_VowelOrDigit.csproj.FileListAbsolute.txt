@@ -1,0 +1,6 @@
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\13_VowelOrDigit\bin\Debug\13_VowelOrDigit.exe.config
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\13_VowelOrDigit\bin\Debug\13_VowelOrDigit.exe
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\13_VowelOrDigit\bin\Debug\13_VowelOrDigit.pdb
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\13_VowelOrDigit\obj\Debug\13_VowelOrDigit.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\13_VowelOrDigit\obj\Debug\13_VowelOrDigit.exe
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\13_VowelOrDigit\obj\Debug\13_VowelOrDigit.pdb

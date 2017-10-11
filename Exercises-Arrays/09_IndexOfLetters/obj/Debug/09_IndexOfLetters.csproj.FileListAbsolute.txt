@@ -1,0 +1,6 @@
+D:\ProgrammingFundamentals\Exercises-Arrays\09_IndexOfLetters\bin\Debug\09_IndexOfLetters.exe.config
+D:\ProgrammingFundamentals\Exercises-Arrays\09_IndexOfLetters\bin\Debug\09_IndexOfLetters.exe
+D:\ProgrammingFundamentals\Exercises-Arrays\09_IndexOfLetters\bin\Debug\09_IndexOfLetters.pdb
+D:\ProgrammingFundamentals\Exercises-Arrays\09_IndexOfLetters\obj\Debug\09_IndexOfLetters.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-Arrays\09_IndexOfLetters\obj\Debug\09_IndexOfLetters.exe
+D:\ProgrammingFundamentals\Exercises-Arrays\09_IndexOfLetters\obj\Debug\09_IndexOfLetters.pdb

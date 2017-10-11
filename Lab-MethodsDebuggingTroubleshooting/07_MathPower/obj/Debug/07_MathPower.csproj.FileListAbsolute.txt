@@ -1,0 +1,6 @@
+D:\ProgrammingFundamentals\Lab-MethodsDebuggingTroubleshooting\07_MathPower\bin\Debug\07_MathPower.exe.config
+D:\ProgrammingFundamentals\Lab-MethodsDebuggingTroubleshooting\07_MathPower\bin\Debug\07_MathPower.exe
+D:\ProgrammingFundamentals\Lab-MethodsDebuggingTroubleshooting\07_MathPower\bin\Debug\07_MathPower.pdb
+D:\ProgrammingFundamentals\Lab-MethodsDebuggingTroubleshooting\07_MathPower\obj\Debug\07_MathPower.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Lab-MethodsDebuggingTroubleshooting\07_MathPower\obj\Debug\07_MathPower.exe
+D:\ProgrammingFundamentals\Lab-MethodsDebuggingTroubleshooting\07_MathPower\obj\Debug\07_MathPower.pdb

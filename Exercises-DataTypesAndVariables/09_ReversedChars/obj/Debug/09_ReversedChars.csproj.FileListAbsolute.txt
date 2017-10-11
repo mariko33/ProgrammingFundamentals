@@ -1,0 +1,6 @@
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\09_ReversedChars\bin\Debug\09_ReversedChars.exe.config
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\09_ReversedChars\bin\Debug\09_ReversedChars.exe
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\09_ReversedChars\bin\Debug\09_ReversedChars.pdb
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\09_ReversedChars\obj\Debug\09_ReversedChars.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\09_ReversedChars\obj\Debug\09_ReversedChars.exe
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\09_ReversedChars\obj\Debug\09_ReversedChars.pdb

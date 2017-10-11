@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exercises-ConditionalStatementsAndLoops\Problem_2ChooseADrink2.0\bin\Debug\Problem_2ChooseADrink2.0.exe.config
+D:\ProgrammingFundamentals\Exercises-ConditionalStatementsAndLoops\Problem_2ChooseADrink2.0\bin\Debug\Problem_2ChooseADrink2.0.exe
+D:\ProgrammingFundamentals\Exercises-ConditionalStatementsAndLoops\Problem_2ChooseADrink2.0\bin\Debug\Problem_2ChooseADrink2.0.pdb
+D:\ProgrammingFundamentals\Exercises-ConditionalStatementsAndLoops\Problem_2ChooseADrink2.0\obj\Debug\Problem_2ChooseADrink2.0.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-ConditionalStatementsAndLoops\Problem_2ChooseADrink2.0\obj\Debug\Problem_2ChooseADrink2.0.exe
+D:\ProgrammingFundamentals\Exercises-ConditionalStatementsAndLoops\Problem_2ChooseADrink2.0\obj\Debug\Problem_2ChooseADrink2.0.pdb
+D:\ProgrammingFundamentals\Exercises-ConditionalStatementsAndLoops\Problem_2ChooseADrink2.0\obj\Debug\Problem_2ChooseADrink2.0.csprojResolveAssemblyReference.cache

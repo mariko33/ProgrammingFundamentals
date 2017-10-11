@@ -1,0 +1,6 @@
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\01_HelloName\bin\Debug\01_HelloName.exe.config
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\01_HelloName\bin\Debug\01_HelloName.exe
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\01_HelloName\bin\Debug\01_HelloName.pdb
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\01_HelloName\obj\Debug\01_HelloName.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\01_HelloName\obj\Debug\01_HelloName.exe
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\01_HelloName\obj\Debug\01_HelloName.pdb

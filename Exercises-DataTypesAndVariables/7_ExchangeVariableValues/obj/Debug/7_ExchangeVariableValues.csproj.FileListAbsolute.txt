@@ -1,0 +1,6 @@
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\7_ExchangeVariableValues\bin\Debug\7_ExchangeVariableValues.exe.config
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\7_ExchangeVariableValues\bin\Debug\7_ExchangeVariableValues.exe
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\7_ExchangeVariableValues\bin\Debug\7_ExchangeVariableValues.pdb
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\7_ExchangeVariableValues\obj\Debug\7_ExchangeVariableValues.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\7_ExchangeVariableValues\obj\Debug\7_ExchangeVariableValues.exe
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\7_ExchangeVariableValues\obj\Debug\7_ExchangeVariableValues.pdb

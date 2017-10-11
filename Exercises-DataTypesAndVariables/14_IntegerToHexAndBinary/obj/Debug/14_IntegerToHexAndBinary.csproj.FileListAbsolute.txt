@@ -1,0 +1,6 @@
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\14_IntegerToHexAndBinary\bin\Debug\14_IntegerToHexAndBinary.exe.config
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\14_IntegerToHexAndBinary\bin\Debug\14_IntegerToHexAndBinary.exe
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\14_IntegerToHexAndBinary\bin\Debug\14_IntegerToHexAndBinary.pdb
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\14_IntegerToHexAndBinary\obj\Debug\14_IntegerToHexAndBinary.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\14_IntegerToHexAndBinary\obj\Debug\14_IntegerToHexAndBinary.exe
+D:\ProgrammingFundamentals\Exercises-DataTypesAndVariables\14_IntegerToHexAndBinary\obj\Debug\14_IntegerToHexAndBinary.pdb

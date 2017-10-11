@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\12_MasterNumber\bin\Debug\12_MasterNumber.exe.config
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\12_MasterNumber\bin\Debug\12_MasterNumber.exe
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\12_MasterNumber\bin\Debug\12_MasterNumber.pdb
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\12_MasterNumber\obj\Debug\12_MasterNumber.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\12_MasterNumber\obj\Debug\12_MasterNumber.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\12_MasterNumber\obj\Debug\12_MasterNumber.exe
+D:\ProgrammingFundamentals\Exercises-MethodsDebuggingTroubleshooting\12_MasterNumber\obj\Debug\12_MasterNumber.pdb

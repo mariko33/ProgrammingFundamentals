@@ -1,0 +1,6 @@
+D:\ProgrammingFundamentals\Exercises-IntroBasicSyntax\MilesToKilometersc\bin\Debug\MilesToKilometersc.exe.config
+D:\ProgrammingFundamentals\Exercises-IntroBasicSyntax\MilesToKilometersc\bin\Debug\MilesToKilometersc.exe
+D:\ProgrammingFundamentals\Exercises-IntroBasicSyntax\MilesToKilometersc\bin\Debug\MilesToKilometersc.pdb
+D:\ProgrammingFundamentals\Exercises-IntroBasicSyntax\MilesToKilometersc\obj\Debug\MilesToKilometersc.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-IntroBasicSyntax\MilesToKilometersc\obj\Debug\MilesToKilometersc.exe
+D:\ProgrammingFundamentals\Exercises-IntroBasicSyntax\MilesToKilometersc\obj\Debug\MilesToKilometersc.pdb
