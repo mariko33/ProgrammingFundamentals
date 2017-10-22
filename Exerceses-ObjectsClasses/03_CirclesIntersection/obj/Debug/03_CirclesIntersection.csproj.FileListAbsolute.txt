@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\03_CirclesIntersection\bin\Debug\03_CirclesIntersection.exe.config
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\03_CirclesIntersection\bin\Debug\03_CirclesIntersection.exe
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\03_CirclesIntersection\bin\Debug\03_CirclesIntersection.pdb
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\03_CirclesIntersection\obj\Debug\03_CirclesIntersection.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\03_CirclesIntersection\obj\Debug\03_CirclesIntersection.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\03_CirclesIntersection\obj\Debug\03_CirclesIntersection.exe
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\03_CirclesIntersection\obj\Debug\03_CirclesIntersection.pdb

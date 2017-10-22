@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exercises-Lists\05_1ArrayManipulator\bin\Debug\05_1ArrayManipulator.exe.config
+D:\ProgrammingFundamentals\Exercises-Lists\05_1ArrayManipulator\bin\Debug\05_1ArrayManipulator.exe
+D:\ProgrammingFundamentals\Exercises-Lists\05_1ArrayManipulator\bin\Debug\05_1ArrayManipulator.pdb
+D:\ProgrammingFundamentals\Exercises-Lists\05_1ArrayManipulator\obj\Debug\05_1ArrayManipulator.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Exercises-Lists\05_1ArrayManipulator\obj\Debug\05_1ArrayManipulator.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-Lists\05_1ArrayManipulator\obj\Debug\05_1ArrayManipulator.exe
+D:\ProgrammingFundamentals\Exercises-Lists\05_1ArrayManipulator\obj\Debug\05_1ArrayManipulator.pdb

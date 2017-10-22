@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exercises-Lists\03_SearchForNumber\bin\Debug\03_SearchForNumber.exe.config
+D:\ProgrammingFundamentals\Exercises-Lists\03_SearchForNumber\bin\Debug\03_SearchForNumber.exe
+D:\ProgrammingFundamentals\Exercises-Lists\03_SearchForNumber\bin\Debug\03_SearchForNumber.pdb
+D:\ProgrammingFundamentals\Exercises-Lists\03_SearchForNumber\obj\Debug\03_SearchForNumber.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Exercises-Lists\03_SearchForNumber\obj\Debug\03_SearchForNumber.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-Lists\03_SearchForNumber\obj\Debug\03_SearchForNumber.exe
+D:\ProgrammingFundamentals\Exercises-Lists\03_SearchForNumber\obj\Debug\03_SearchForNumber.pdb

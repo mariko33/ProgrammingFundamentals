@@ -1,0 +1,6 @@
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\02_AdvertisementMessage\bin\Debug\02_AdvertisementMessage.exe.config
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\02_AdvertisementMessage\bin\Debug\02_AdvertisementMessage.exe
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\02_AdvertisementMessage\bin\Debug\02_AdvertisementMessage.pdb
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\02_AdvertisementMessage\obj\Debug\02_AdvertisementMessage.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\02_AdvertisementMessage\obj\Debug\02_AdvertisementMessage.exe
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\02_AdvertisementMessage\obj\Debug\02_AdvertisementMessage.pdb

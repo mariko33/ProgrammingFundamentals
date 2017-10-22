@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\09_TeamworkProjects\bin\Debug\09_TeamworkProjects.exe.config
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\09_TeamworkProjects\bin\Debug\09_TeamworkProjects.exe
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\09_TeamworkProjects\bin\Debug\09_TeamworkProjects.pdb
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\09_TeamworkProjects\obj\Debug\09_TeamworkProjects.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\09_TeamworkProjects\obj\Debug\09_TeamworkProjects.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\09_TeamworkProjects\obj\Debug\09_TeamworkProjects.exe
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\09_TeamworkProjects\obj\Debug\09_TeamworkProjects.pdb

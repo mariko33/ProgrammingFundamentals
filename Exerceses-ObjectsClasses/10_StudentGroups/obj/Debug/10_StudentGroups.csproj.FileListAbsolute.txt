@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\10_StudentGroups\bin\Debug\10_StudentGroups.exe.config
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\10_StudentGroups\bin\Debug\10_StudentGroups.exe
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\10_StudentGroups\bin\Debug\10_StudentGroups.pdb
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\10_StudentGroups\obj\Debug\10_StudentGroups.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\10_StudentGroups\obj\Debug\10_StudentGroups.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\10_StudentGroups\obj\Debug\10_StudentGroups.exe
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\10_StudentGroups\obj\Debug\10_StudentGroups.pdb

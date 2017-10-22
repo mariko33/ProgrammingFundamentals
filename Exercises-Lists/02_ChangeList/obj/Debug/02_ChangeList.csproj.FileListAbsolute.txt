@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exercises-Lists\02_ChangeList\bin\Debug\02_ChangeList.exe.config
+D:\ProgrammingFundamentals\Exercises-Lists\02_ChangeList\bin\Debug\02_ChangeList.exe
+D:\ProgrammingFundamentals\Exercises-Lists\02_ChangeList\bin\Debug\02_ChangeList.pdb
+D:\ProgrammingFundamentals\Exercises-Lists\02_ChangeList\obj\Debug\02_ChangeList.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Exercises-Lists\02_ChangeList\obj\Debug\02_ChangeList.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-Lists\02_ChangeList\obj\Debug\02_ChangeList.exe
+D:\ProgrammingFundamentals\Exercises-Lists\02_ChangeList\obj\Debug\02_ChangeList.pdb

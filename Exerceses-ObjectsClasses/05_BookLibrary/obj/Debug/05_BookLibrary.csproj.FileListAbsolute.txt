@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\05_BookLibrary\bin\Debug\05_BookLibrary.exe.config
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\05_BookLibrary\bin\Debug\05_BookLibrary.exe
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\05_BookLibrary\bin\Debug\05_BookLibrary.pdb
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\05_BookLibrary\obj\Debug\05_BookLibrary.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\05_BookLibrary\obj\Debug\05_BookLibrary.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\05_BookLibrary\obj\Debug\05_BookLibrary.exe
+D:\ProgrammingFundamentals\Exerceses-ObjectsClasses\05_BookLibrary\obj\Debug\05_BookLibrary.pdb
