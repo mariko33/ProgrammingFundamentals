@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\PracticalExam-05-11-2017\Problem3\bin\Debug\Problem3.exe.config
+D:\ProgrammingFundamentals\PracticalExam-05-11-2017\Problem3\bin\Debug\Problem3.exe
+D:\ProgrammingFundamentals\PracticalExam-05-11-2017\Problem3\bin\Debug\Problem3.pdb
+D:\ProgrammingFundamentals\PracticalExam-05-11-2017\Problem3\obj\Debug\Problem3.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\PracticalExam-05-11-2017\Problem3\obj\Debug\Problem3.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\PracticalExam-05-11-2017\Problem3\obj\Debug\Problem3.exe
+D:\ProgrammingFundamentals\PracticalExam-05-11-2017\Problem3\obj\Debug\Problem3.pdb

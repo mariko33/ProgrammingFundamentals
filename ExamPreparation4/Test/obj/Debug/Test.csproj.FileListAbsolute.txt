@@ -1,0 +1,6 @@
+D:\ProgrammingFundamentals\ExamPreparation4\Test\bin\Debug\Test.exe.config
+D:\ProgrammingFundamentals\ExamPreparation4\Test\bin\Debug\Test.exe
+D:\ProgrammingFundamentals\ExamPreparation4\Test\bin\Debug\Test.pdb
+D:\ProgrammingFundamentals\ExamPreparation4\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\ExamPreparation4\Test\obj\Debug\Test.exe
+D:\ProgrammingFundamentals\ExamPreparation4\Test\obj\Debug\Test.pdb

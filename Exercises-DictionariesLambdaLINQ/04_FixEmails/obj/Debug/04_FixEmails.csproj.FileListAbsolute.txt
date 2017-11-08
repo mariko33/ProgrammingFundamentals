@@ -1,0 +1,6 @@
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\04_FixEmails\bin\Debug\04_FixEmails.exe.config
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\04_FixEmails\bin\Debug\04_FixEmails.exe
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\04_FixEmails\bin\Debug\04_FixEmails.pdb
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\04_FixEmails\obj\Debug\04_FixEmails.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\04_FixEmails\obj\Debug\04_FixEmails.exe
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\04_FixEmails\obj\Debug\04_FixEmails.pdb

@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\07_QueryMess\bin\Debug\07_QueryMess.exe.config
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\07_QueryMess\bin\Debug\07_QueryMess.exe
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\07_QueryMess\bin\Debug\07_QueryMess.pdb
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\07_QueryMess\obj\Debug\07_QueryMess.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\07_QueryMess\obj\Debug\07_QueryMess.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\07_QueryMess\obj\Debug\07_QueryMess.exe
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\07_QueryMess\obj\Debug\07_QueryMess.pdb

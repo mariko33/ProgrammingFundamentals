@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\ExamPreparation2\04_RoliTheCoder\bin\Debug\04_RoliTheCoder.exe.config
+D:\ProgrammingFundamentals\ExamPreparation2\04_RoliTheCoder\bin\Debug\04_RoliTheCoder.exe
+D:\ProgrammingFundamentals\ExamPreparation2\04_RoliTheCoder\bin\Debug\04_RoliTheCoder.pdb
+D:\ProgrammingFundamentals\ExamPreparation2\04_RoliTheCoder\obj\Debug\04_RoliTheCoder.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\ExamPreparation2\04_RoliTheCoder\obj\Debug\04_RoliTheCoder.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\ExamPreparation2\04_RoliTheCoder\obj\Debug\04_RoliTheCoder.exe
+D:\ProgrammingFundamentals\ExamPreparation2\04_RoliTheCoder\obj\Debug\04_RoliTheCoder.pdb

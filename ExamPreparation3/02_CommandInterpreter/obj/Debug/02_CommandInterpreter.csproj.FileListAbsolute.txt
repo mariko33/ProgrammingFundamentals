@@ -1,0 +1,6 @@
+D:\ProgrammingFundamentals\ExamPreparation3\02_CommandInterpreter\bin\Debug\02_CommandInterpreter.exe.config
+D:\ProgrammingFundamentals\ExamPreparation3\02_CommandInterpreter\bin\Debug\02_CommandInterpreter.exe
+D:\ProgrammingFundamentals\ExamPreparation3\02_CommandInterpreter\bin\Debug\02_CommandInterpreter.pdb
+D:\ProgrammingFundamentals\ExamPreparation3\02_CommandInterpreter\obj\Debug\02_CommandInterpreter.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\ExamPreparation3\02_CommandInterpreter\obj\Debug\02_CommandInterpreter.exe
+D:\ProgrammingFundamentals\ExamPreparation3\02_CommandInterpreter\obj\Debug\02_CommandInterpreter.pdb

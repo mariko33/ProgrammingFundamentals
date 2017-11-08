@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\01_ExtractEmails\bin\Debug\01_ExtractEmails.exe.config
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\01_ExtractEmails\bin\Debug\01_ExtractEmails.exe
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\01_ExtractEmails\bin\Debug\01_ExtractEmails.pdb
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\01_ExtractEmails\obj\Debug\01_ExtractEmails.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\01_ExtractEmails\obj\Debug\01_ExtractEmails.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\01_ExtractEmails\obj\Debug\01_ExtractEmails.exe
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\01_ExtractEmails\obj\Debug\01_ExtractEmails.pdb

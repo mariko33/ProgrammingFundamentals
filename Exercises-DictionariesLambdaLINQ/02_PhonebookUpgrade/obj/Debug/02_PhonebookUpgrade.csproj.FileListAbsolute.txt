@@ -1,0 +1,6 @@
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\02_PhonebookUpgrade\bin\Debug\02_PhonebookUpgrade.exe.config
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\02_PhonebookUpgrade\bin\Debug\02_PhonebookUpgrade.exe
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\02_PhonebookUpgrade\bin\Debug\02_PhonebookUpgrade.pdb
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\02_PhonebookUpgrade\obj\Debug\02_PhonebookUpgrade.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\02_PhonebookUpgrade\obj\Debug\02_PhonebookUpgrade.exe
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\02_PhonebookUpgrade\obj\Debug\02_PhonebookUpgrade.pdb

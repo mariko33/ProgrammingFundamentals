@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\ExamPreparation-Exam9-7-2017\Problem_3Regexmon\bin\Debug\Problem_3Regexmon.exe.config
+D:\ProgrammingFundamentals\ExamPreparation-Exam9-7-2017\Problem_3Regexmon\bin\Debug\Problem_3Regexmon.exe
+D:\ProgrammingFundamentals\ExamPreparation-Exam9-7-2017\Problem_3Regexmon\bin\Debug\Problem_3Regexmon.pdb
+D:\ProgrammingFundamentals\ExamPreparation-Exam9-7-2017\Problem_3Regexmon\obj\Debug\Problem_3Regexmon.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\ExamPreparation-Exam9-7-2017\Problem_3Regexmon\obj\Debug\Problem_3Regexmon.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\ExamPreparation-Exam9-7-2017\Problem_3Regexmon\obj\Debug\Problem_3Regexmon.exe
+D:\ProgrammingFundamentals\ExamPreparation-Exam9-7-2017\Problem_3Regexmon\obj\Debug\Problem_3Regexmon.pdb

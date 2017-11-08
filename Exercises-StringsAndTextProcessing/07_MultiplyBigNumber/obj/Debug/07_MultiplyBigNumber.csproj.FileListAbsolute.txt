@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exercises-StringsAndTextProcessing\07_MultiplyBigNumber\bin\Debug\07_MultiplyBigNumber.exe.config
+D:\ProgrammingFundamentals\Exercises-StringsAndTextProcessing\07_MultiplyBigNumber\bin\Debug\07_MultiplyBigNumber.exe
+D:\ProgrammingFundamentals\Exercises-StringsAndTextProcessing\07_MultiplyBigNumber\bin\Debug\07_MultiplyBigNumber.pdb
+D:\ProgrammingFundamentals\Exercises-StringsAndTextProcessing\07_MultiplyBigNumber\obj\Debug\07_MultiplyBigNumber.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Exercises-StringsAndTextProcessing\07_MultiplyBigNumber\obj\Debug\07_MultiplyBigNumber.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-StringsAndTextProcessing\07_MultiplyBigNumber\obj\Debug\07_MultiplyBigNumber.exe
+D:\ProgrammingFundamentals\Exercises-StringsAndTextProcessing\07_MultiplyBigNumber\obj\Debug\07_MultiplyBigNumber.pdb

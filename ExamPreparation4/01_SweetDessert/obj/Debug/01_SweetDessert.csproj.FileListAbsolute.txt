@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\ExamPreparation4\01_SweetDessert\bin\Debug\01_SweetDessert.exe.config
+D:\ProgrammingFundamentals\ExamPreparation4\01_SweetDessert\bin\Debug\01_SweetDessert.exe
+D:\ProgrammingFundamentals\ExamPreparation4\01_SweetDessert\bin\Debug\01_SweetDessert.pdb
+D:\ProgrammingFundamentals\ExamPreparation4\01_SweetDessert\obj\Debug\01_SweetDessert.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\ExamPreparation4\01_SweetDessert\obj\Debug\01_SweetDessert.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\ExamPreparation4\01_SweetDessert\obj\Debug\01_SweetDessert.exe
+D:\ProgrammingFundamentals\ExamPreparation4\01_SweetDessert\obj\Debug\01_SweetDessert.pdb

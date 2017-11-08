@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\ExamPreparation3\01_SoftuniCoffeeOrders\bin\Debug\01_SoftuniCoffeeOrders.exe.config
+D:\ProgrammingFundamentals\ExamPreparation3\01_SoftuniCoffeeOrders\bin\Debug\01_SoftuniCoffeeOrders.exe
+D:\ProgrammingFundamentals\ExamPreparation3\01_SoftuniCoffeeOrders\bin\Debug\01_SoftuniCoffeeOrders.pdb
+D:\ProgrammingFundamentals\ExamPreparation3\01_SoftuniCoffeeOrders\obj\Debug\01_SoftuniCoffeeOrders.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\ExamPreparation3\01_SoftuniCoffeeOrders\obj\Debug\01_SoftuniCoffeeOrders.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\ExamPreparation3\01_SoftuniCoffeeOrders\obj\Debug\01_SoftuniCoffeeOrders.exe
+D:\ProgrammingFundamentals\ExamPreparation3\01_SoftuniCoffeeOrders\obj\Debug\01_SoftuniCoffeeOrders.pdb

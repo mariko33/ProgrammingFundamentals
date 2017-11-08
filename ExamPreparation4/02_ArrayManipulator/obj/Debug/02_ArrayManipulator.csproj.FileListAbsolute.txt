@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\ExamPreparation4\02_ArrayManipulator\bin\Debug\02_ArrayManipulator.exe.config
+D:\ProgrammingFundamentals\ExamPreparation4\02_ArrayManipulator\bin\Debug\02_ArrayManipulator.exe
+D:\ProgrammingFundamentals\ExamPreparation4\02_ArrayManipulator\bin\Debug\02_ArrayManipulator.pdb
+D:\ProgrammingFundamentals\ExamPreparation4\02_ArrayManipulator\obj\Debug\02_ArrayManipulator.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\ExamPreparation4\02_ArrayManipulator\obj\Debug\02_ArrayManipulator.exe
+D:\ProgrammingFundamentals\ExamPreparation4\02_ArrayManipulator\obj\Debug\02_ArrayManipulator.pdb
+D:\ProgrammingFundamentals\ExamPreparation4\02_ArrayManipulator\obj\Debug\02_ArrayManipulator.csprojResolveAssemblyReference.cache

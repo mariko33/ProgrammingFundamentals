@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\04_Weather\bin\Debug\04_Weather.exe.config
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\04_Weather\bin\Debug\04_Weather.exe
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\04_Weather\bin\Debug\04_Weather.pdb
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\04_Weather\obj\Debug\04_Weather.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\04_Weather\obj\Debug\04_Weather.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\04_Weather\obj\Debug\04_Weather.exe
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\04_Weather\obj\Debug\04_Weather.pdb

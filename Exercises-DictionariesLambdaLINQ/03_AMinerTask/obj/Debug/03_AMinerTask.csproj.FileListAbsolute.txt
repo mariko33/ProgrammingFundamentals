@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\03_AMinerTask\bin\Debug\03_AMinerTask.exe.config
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\03_AMinerTask\bin\Debug\03_AMinerTask.exe
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\03_AMinerTask\bin\Debug\03_AMinerTask.pdb
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\03_AMinerTask\obj\Debug\03_AMinerTask.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\03_AMinerTask\obj\Debug\03_AMinerTask.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\03_AMinerTask\obj\Debug\03_AMinerTask.exe
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\03_AMinerTask\obj\Debug\03_AMinerTask.pdb

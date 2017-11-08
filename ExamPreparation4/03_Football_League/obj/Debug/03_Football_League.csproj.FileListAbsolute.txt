@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\ExamPreparation4\03_Football_League\bin\Debug\03_Football_League.exe.config
+D:\ProgrammingFundamentals\ExamPreparation4\03_Football_League\bin\Debug\03_Football_League.exe
+D:\ProgrammingFundamentals\ExamPreparation4\03_Football_League\bin\Debug\03_Football_League.pdb
+D:\ProgrammingFundamentals\ExamPreparation4\03_Football_League\obj\Debug\03_Football_League.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\ExamPreparation4\03_Football_League\obj\Debug\03_Football_League.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\ExamPreparation4\03_Football_League\obj\Debug\03_Football_League.exe
+D:\ProgrammingFundamentals\ExamPreparation4\03_Football_League\obj\Debug\03_Football_League.pdb

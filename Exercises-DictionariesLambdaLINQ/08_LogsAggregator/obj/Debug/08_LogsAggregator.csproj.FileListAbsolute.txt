@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\08_LogsAggregator\bin\Debug\08_LogsAggregator.exe.config
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\08_LogsAggregator\bin\Debug\08_LogsAggregator.exe
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\08_LogsAggregator\bin\Debug\08_LogsAggregator.pdb
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\08_LogsAggregator\obj\Debug\08_LogsAggregator.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\08_LogsAggregator\obj\Debug\08_LogsAggregator.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\08_LogsAggregator\obj\Debug\08_LogsAggregator.exe
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\08_LogsAggregator\obj\Debug\08_LogsAggregator.pdb

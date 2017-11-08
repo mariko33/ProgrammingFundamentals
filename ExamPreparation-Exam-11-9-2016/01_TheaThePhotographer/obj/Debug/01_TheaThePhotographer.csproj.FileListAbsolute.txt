@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\ExamPreparation-Exam-11-9-2016\01_TheaThePhotographer\bin\Debug\01_TheaThePhotographer.exe.config
+D:\ProgrammingFundamentals\ExamPreparation-Exam-11-9-2016\01_TheaThePhotographer\bin\Debug\01_TheaThePhotographer.exe
+D:\ProgrammingFundamentals\ExamPreparation-Exam-11-9-2016\01_TheaThePhotographer\bin\Debug\01_TheaThePhotographer.pdb
+D:\ProgrammingFundamentals\ExamPreparation-Exam-11-9-2016\01_TheaThePhotographer\obj\Debug\01_TheaThePhotographer.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\ExamPreparation-Exam-11-9-2016\01_TheaThePhotographer\obj\Debug\01_TheaThePhotographer.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\ExamPreparation-Exam-11-9-2016\01_TheaThePhotographer\obj\Debug\01_TheaThePhotographer.exe
+D:\ProgrammingFundamentals\ExamPreparation-Exam-11-9-2016\01_TheaThePhotographer\obj\Debug\01_TheaThePhotographer.pdb

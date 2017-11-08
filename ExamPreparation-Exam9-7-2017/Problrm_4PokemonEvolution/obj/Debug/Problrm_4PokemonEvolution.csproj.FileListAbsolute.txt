@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\ExamPreparation-Exam9-7-2017\Problrm_4PokemonEvolution\bin\Debug\Problrm_4PokemonEvolution.exe.config
+D:\ProgrammingFundamentals\ExamPreparation-Exam9-7-2017\Problrm_4PokemonEvolution\bin\Debug\Problrm_4PokemonEvolution.exe
+D:\ProgrammingFundamentals\ExamPreparation-Exam9-7-2017\Problrm_4PokemonEvolution\bin\Debug\Problrm_4PokemonEvolution.pdb
+D:\ProgrammingFundamentals\ExamPreparation-Exam9-7-2017\Problrm_4PokemonEvolution\obj\Debug\Problrm_4PokemonEvolution.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\ExamPreparation-Exam9-7-2017\Problrm_4PokemonEvolution\obj\Debug\Problrm_4PokemonEvolution.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\ExamPreparation-Exam9-7-2017\Problrm_4PokemonEvolution\obj\Debug\Problrm_4PokemonEvolution.exe
+D:\ProgrammingFundamentals\ExamPreparation-Exam9-7-2017\Problrm_4PokemonEvolution\obj\Debug\Problrm_4PokemonEvolution.pdb

@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\06_ValidUsernames\bin\Debug\06_ValidUsernames.exe.config
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\06_ValidUsernames\bin\Debug\06_ValidUsernames.exe
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\06_ValidUsernames\bin\Debug\06_ValidUsernames.pdb
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\06_ValidUsernames\obj\Debug\06_ValidUsernames.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\06_ValidUsernames\obj\Debug\06_ValidUsernames.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\06_ValidUsernames\obj\Debug\06_ValidUsernames.exe
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\06_ValidUsernames\obj\Debug\06_ValidUsernames.pdb

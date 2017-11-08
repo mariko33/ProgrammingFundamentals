@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\ExamPreparation2\02_Ladybugs\bin\Debug\02_Ladybugs.exe.config
+D:\ProgrammingFundamentals\ExamPreparation2\02_Ladybugs\bin\Debug\02_Ladybugs.exe
+D:\ProgrammingFundamentals\ExamPreparation2\02_Ladybugs\bin\Debug\02_Ladybugs.pdb
+D:\ProgrammingFundamentals\ExamPreparation2\02_Ladybugs\obj\Debug\02_Ladybugs.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\ExamPreparation2\02_Ladybugs\obj\Debug\02_Ladybugs.exe
+D:\ProgrammingFundamentals\ExamPreparation2\02_Ladybugs\obj\Debug\02_Ladybugs.pdb
+D:\ProgrammingFundamentals\ExamPreparation2\02_Ladybugs\obj\Debug\02_Ladybugs.csprojResolveAssemblyReference.cache

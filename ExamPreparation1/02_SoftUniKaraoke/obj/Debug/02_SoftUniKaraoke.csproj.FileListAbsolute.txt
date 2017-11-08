@@ -1,0 +1,6 @@
+D:\ProgrammingFundamentals\ExamPreparation1\02_SoftUniKaraoke\bin\Debug\02_SoftUniKaraoke.exe.config
+D:\ProgrammingFundamentals\ExamPreparation1\02_SoftUniKaraoke\bin\Debug\02_SoftUniKaraoke.exe
+D:\ProgrammingFundamentals\ExamPreparation1\02_SoftUniKaraoke\bin\Debug\02_SoftUniKaraoke.pdb
+D:\ProgrammingFundamentals\ExamPreparation1\02_SoftUniKaraoke\obj\Debug\02_SoftUniKaraoke.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\ExamPreparation1\02_SoftUniKaraoke\obj\Debug\02_SoftUniKaraoke.exe
+D:\ProgrammingFundamentals\ExamPreparation1\02_SoftUniKaraoke\obj\Debug\02_SoftUniKaraoke.pdb

@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\01_Phonebook\bin\Debug\01_Phonebook.exe.config
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\01_Phonebook\bin\Debug\01_Phonebook.exe
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\01_Phonebook\bin\Debug\01_Phonebook.pdb
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\01_Phonebook\obj\Debug\01_Phonebook.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\01_Phonebook\obj\Debug\01_Phonebook.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\01_Phonebook\obj\Debug\01_Phonebook.exe
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\01_Phonebook\obj\Debug\01_Phonebook.pdb

@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exercises-StringsAndTextProcessing\01_Convert fromBase-10Tobase-N\bin\Debug\01_Convert fromBase-10Tobase-N.exe.config
+D:\ProgrammingFundamentals\Exercises-StringsAndTextProcessing\01_Convert fromBase-10Tobase-N\bin\Debug\01_Convert fromBase-10Tobase-N.exe
+D:\ProgrammingFundamentals\Exercises-StringsAndTextProcessing\01_Convert fromBase-10Tobase-N\bin\Debug\01_Convert fromBase-10Tobase-N.pdb
+D:\ProgrammingFundamentals\Exercises-StringsAndTextProcessing\01_Convert fromBase-10Tobase-N\obj\Debug\01_Convert fromBase-10Tobase-N.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Exercises-StringsAndTextProcessing\01_Convert fromBase-10Tobase-N\obj\Debug\01_Convert fromBase-10Tobase-N.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-StringsAndTextProcessing\01_Convert fromBase-10Tobase-N\obj\Debug\01_Convert fromBase-10Tobase-N.exe
+D:\ProgrammingFundamentals\Exercises-StringsAndTextProcessing\01_Convert fromBase-10Tobase-N\obj\Debug\01_Convert fromBase-10Tobase-N.pdb

@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\ExamPreparation3\03_RageQuit\bin\Debug\03_RageQuit.exe.config
+D:\ProgrammingFundamentals\ExamPreparation3\03_RageQuit\bin\Debug\03_RageQuit.exe
+D:\ProgrammingFundamentals\ExamPreparation3\03_RageQuit\bin\Debug\03_RageQuit.pdb
+D:\ProgrammingFundamentals\ExamPreparation3\03_RageQuit\obj\Debug\03_RageQuit.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\ExamPreparation3\03_RageQuit\obj\Debug\03_RageQuit.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\ExamPreparation3\03_RageQuit\obj\Debug\03_RageQuit.exe
+D:\ProgrammingFundamentals\ExamPreparation3\03_RageQuit\obj\Debug\03_RageQuit.pdb

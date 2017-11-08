@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\08_UseYourChainsBuddy\bin\Debug\08_UseYourChainsBuddy.exe.config
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\08_UseYourChainsBuddy\bin\Debug\08_UseYourChainsBuddy.exe
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\08_UseYourChainsBuddy\bin\Debug\08_UseYourChainsBuddy.pdb
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\08_UseYourChainsBuddy\obj\Debug\08_UseYourChainsBuddy.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\08_UseYourChainsBuddy\obj\Debug\08_UseYourChainsBuddy.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\08_UseYourChainsBuddy\obj\Debug\08_UseYourChainsBuddy.exe
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\08_UseYourChainsBuddy\obj\Debug\08_UseYourChainsBuddy.pdb

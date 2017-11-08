@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\ExamPreparation3\04_Files\bin\Debug\04_Files.exe.config
+D:\ProgrammingFundamentals\ExamPreparation3\04_Files\bin\Debug\04_Files.exe
+D:\ProgrammingFundamentals\ExamPreparation3\04_Files\bin\Debug\04_Files.pdb
+D:\ProgrammingFundamentals\ExamPreparation3\04_Files\obj\Debug\04_Files.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\ExamPreparation3\04_Files\obj\Debug\04_Files.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\ExamPreparation3\04_Files\obj\Debug\04_Files.exe
+D:\ProgrammingFundamentals\ExamPreparation3\04_Files\obj\Debug\04_Files.pdb

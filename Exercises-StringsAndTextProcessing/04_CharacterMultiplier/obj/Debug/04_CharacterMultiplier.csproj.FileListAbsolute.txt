@@ -1,0 +1,6 @@
+D:\ProgrammingFundamentals\Exercises-StringsAndTextProcessing\04_CharacterMultiplier\obj\Debug\04_CharacterMultiplier.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-StringsAndTextProcessing\04_CharacterMultiplier\bin\Debug\04_CharacterMultiplier.exe.config
+D:\ProgrammingFundamentals\Exercises-StringsAndTextProcessing\04_CharacterMultiplier\bin\Debug\04_CharacterMultiplier.exe
+D:\ProgrammingFundamentals\Exercises-StringsAndTextProcessing\04_CharacterMultiplier\bin\Debug\04_CharacterMultiplier.pdb
+D:\ProgrammingFundamentals\Exercises-StringsAndTextProcessing\04_CharacterMultiplier\obj\Debug\04_CharacterMultiplier.exe
+D:\ProgrammingFundamentals\Exercises-StringsAndTextProcessing\04_CharacterMultiplier\obj\Debug\04_CharacterMultiplier.pdb

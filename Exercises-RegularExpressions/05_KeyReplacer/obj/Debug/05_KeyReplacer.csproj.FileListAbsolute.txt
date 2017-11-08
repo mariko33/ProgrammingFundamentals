@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\05_KeyReplacer\bin\Debug\05_KeyReplacer.exe.config
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\05_KeyReplacer\bin\Debug\05_KeyReplacer.exe
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\05_KeyReplacer\bin\Debug\05_KeyReplacer.pdb
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\05_KeyReplacer\obj\Debug\05_KeyReplacer.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\05_KeyReplacer\obj\Debug\05_KeyReplacer.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\05_KeyReplacer\obj\Debug\05_KeyReplacer.exe
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\05_KeyReplacer\obj\Debug\05_KeyReplacer.pdb

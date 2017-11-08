@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\05_HandsOfCards\bin\Debug\05_HandsOfCards.exe.config
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\05_HandsOfCards\bin\Debug\05_HandsOfCards.exe
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\05_HandsOfCards\bin\Debug\05_HandsOfCards.pdb
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\05_HandsOfCards\obj\Debug\05_HandsOfCards.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\05_HandsOfCards\obj\Debug\05_HandsOfCards.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\05_HandsOfCards\obj\Debug\05_HandsOfCards.exe
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\05_HandsOfCards\obj\Debug\05_HandsOfCards.pdb

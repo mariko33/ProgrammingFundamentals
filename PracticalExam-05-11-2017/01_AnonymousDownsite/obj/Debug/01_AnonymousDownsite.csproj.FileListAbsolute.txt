@@ -1,0 +1,6 @@
+D:\ProgrammingFundamentals\PracticalExam-05-11-2017\Problem1\obj\Debug\01_AnonymousDownsite.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\PracticalExam-05-11-2017\Problem1\bin\Debug\01_AnonymousDownsite.exe.config
+D:\ProgrammingFundamentals\PracticalExam-05-11-2017\Problem1\bin\Debug\01_AnonymousDownsite.exe
+D:\ProgrammingFundamentals\PracticalExam-05-11-2017\Problem1\bin\Debug\01_AnonymousDownsite.pdb
+D:\ProgrammingFundamentals\PracticalExam-05-11-2017\Problem1\obj\Debug\01_AnonymousDownsite.exe
+D:\ProgrammingFundamentals\PracticalExam-05-11-2017\Problem1\obj\Debug\01_AnonymousDownsite.pdb

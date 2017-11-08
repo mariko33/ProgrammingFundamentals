@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\ExamPreparation-Exam-11-9-2016\02_TrophonTheGrumpyCat\bin\Debug\02_TrophonTheGrumpyCat.exe.config
+D:\ProgrammingFundamentals\ExamPreparation-Exam-11-9-2016\02_TrophonTheGrumpyCat\bin\Debug\02_TrophonTheGrumpyCat.exe
+D:\ProgrammingFundamentals\ExamPreparation-Exam-11-9-2016\02_TrophonTheGrumpyCat\bin\Debug\02_TrophonTheGrumpyCat.pdb
+D:\ProgrammingFundamentals\ExamPreparation-Exam-11-9-2016\02_TrophonTheGrumpyCat\obj\Debug\02_TrophonTheGrumpyCat.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\ExamPreparation-Exam-11-9-2016\02_TrophonTheGrumpyCat\obj\Debug\02_TrophonTheGrumpyCat.exe
+D:\ProgrammingFundamentals\ExamPreparation-Exam-11-9-2016\02_TrophonTheGrumpyCat\obj\Debug\02_TrophonTheGrumpyCat.pdb
+D:\ProgrammingFundamentals\ExamPreparation-Exam-11-9-2016\02_TrophonTheGrumpyCat\obj\Debug\02_TrophonTheGrumpyCat.csprojResolveAssemblyReference.cache

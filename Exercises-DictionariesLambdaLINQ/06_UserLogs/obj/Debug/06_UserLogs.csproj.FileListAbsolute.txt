@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\06_UserLogs\bin\Debug\06_UserLogs.exe.config
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\06_UserLogs\bin\Debug\06_UserLogs.exe
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\06_UserLogs\bin\Debug\06_UserLogs.pdb
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\06_UserLogs\obj\Debug\06_UserLogs.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\06_UserLogs\obj\Debug\06_UserLogs.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\06_UserLogs\obj\Debug\06_UserLogs.exe
+D:\ProgrammingFundamentals\Exercises-DictionariesLambdaLINQ\06_UserLogs\obj\Debug\06_UserLogs.pdb

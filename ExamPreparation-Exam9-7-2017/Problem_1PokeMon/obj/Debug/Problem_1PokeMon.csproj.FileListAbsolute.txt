@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\ExamPreparation-Exam9-7-2017\Problem_1PokeMon\bin\Debug\Problem_1PokeMon.exe.config
+D:\ProgrammingFundamentals\ExamPreparation-Exam9-7-2017\Problem_1PokeMon\bin\Debug\Problem_1PokeMon.exe
+D:\ProgrammingFundamentals\ExamPreparation-Exam9-7-2017\Problem_1PokeMon\bin\Debug\Problem_1PokeMon.pdb
+D:\ProgrammingFundamentals\ExamPreparation-Exam9-7-2017\Problem_1PokeMon\obj\Debug\Problem_1PokeMon.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\ExamPreparation-Exam9-7-2017\Problem_1PokeMon\obj\Debug\Problem_1PokeMon.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\ExamPreparation-Exam9-7-2017\Problem_1PokeMon\obj\Debug\Problem_1PokeMon.exe
+D:\ProgrammingFundamentals\ExamPreparation-Exam9-7-2017\Problem_1PokeMon\obj\Debug\Problem_1PokeMon.pdb

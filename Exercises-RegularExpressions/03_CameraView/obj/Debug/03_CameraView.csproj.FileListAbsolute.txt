@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\03_CameraView\bin\Debug\03_CameraView.exe.config
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\03_CameraView\bin\Debug\03_CameraView.exe
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\03_CameraView\bin\Debug\03_CameraView.pdb
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\03_CameraView\obj\Debug\03_CameraView.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\03_CameraView\obj\Debug\03_CameraView.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\03_CameraView\obj\Debug\03_CameraView.exe
+D:\ProgrammingFundamentals\Exercises-RegularExpressions\03_CameraView\obj\Debug\03_CameraView.pdb

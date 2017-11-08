@@ -1,0 +1,7 @@
+D:\ProgrammingFundamentals\ExamPreparation-Exam9-7-2017\Problem_2PokemonDon'tGo\bin\Debug\Problem_2PokemonDon'tGo.exe.config
+D:\ProgrammingFundamentals\ExamPreparation-Exam9-7-2017\Problem_2PokemonDon'tGo\bin\Debug\Problem_2PokemonDon'tGo.exe
+D:\ProgrammingFundamentals\ExamPreparation-Exam9-7-2017\Problem_2PokemonDon'tGo\bin\Debug\Problem_2PokemonDon'tGo.pdb
+D:\ProgrammingFundamentals\ExamPreparation-Exam9-7-2017\Problem_2PokemonDon'tGo\obj\Debug\Problem_2PokemonDon'tGo.csprojResolveAssemblyReference.cache
+D:\ProgrammingFundamentals\ExamPreparation-Exam9-7-2017\Problem_2PokemonDon'tGo\obj\Debug\Problem_2PokemonDon'tGo.csproj.CoreCompileInputs.cache
+D:\ProgrammingFundamentals\ExamPreparation-Exam9-7-2017\Problem_2PokemonDon'tGo\obj\Debug\Problem_2PokemonDon'tGo.exe
+D:\ProgrammingFundamentals\ExamPreparation-Exam9-7-2017\Problem_2PokemonDon'tGo\obj\Debug\Problem_2PokemonDon'tGo.pdb
